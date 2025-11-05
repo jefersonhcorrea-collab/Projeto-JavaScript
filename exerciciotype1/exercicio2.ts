@@ -1,4 +1,4 @@
-import readlinesync = require("readline-sync");
+import * as readlinesync from "readline-Sync";
 
 let digiteNum: number;
 const numeros: Set<number> = new Set<number>();
